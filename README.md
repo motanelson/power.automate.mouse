@@ -1,2 +1,1 @@
-# py.registry.ini
-handler of init files .ini 
+game config files
